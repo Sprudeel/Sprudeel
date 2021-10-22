@@ -1,4 +1,4 @@
-👋 Hi, I’m Sprudeel
+# 👋 Hi, I’m Sprudeel
 
 ## I'm a Student and Developer!
 
