@@ -3,7 +3,7 @@
 ## I'm a Student and Developer!
 
 - 🔧 Currently working on [TopoLearner Africa](https://github.com/Sprudeel/Topo-Africa)
-- 🌱 Always learning new things 🤣
+- 🌱 Always learning new things
 - 🥅 2021 Goal: Being more active on GitHub 
 - ⚡ Fun Fact: Llamas are smart. They can distinguish between the neighbor’s dog and a predatory coyote. 🦙
 
