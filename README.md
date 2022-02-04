@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sprudeel
 
-- 🔧 Currently working on picking my next project
+- 🔧 Currently working on consa
 - 🌱 Always learning new things
 - 🥅 2021 Goal: Being more active on GitHub 
 - ⚡ Fun Fact: Llamas are smart. They can distinguish between the neighbor’s dog and a predatory coyote. 🦙
